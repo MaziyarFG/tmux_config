@@ -2,7 +2,7 @@
 <h2>install and config tmux :</h2>
 <ol>first clone this repository with <code>git clone https://github.com/MaziyarFG/tmux_config.git </code></ol>
 <ol>go to tmux_config directory : <code>cd tmux_config</code> </ol>
-<ol>execute <code>run_shell</code> with : <code>bash run_shell</code></ol>
+<ol>execute <code>run_shell</code> with : <code>bash run_shell.sh</code></ol>
 <ol>type your pass for install tmux </ol>
 <ol>go to tmux with : <code>tmux</code> </ol>
 <ol>in tmux type this command <code>tmux source-file ~/.tmux_config/myconf/.tmux.conf</code></ol>
